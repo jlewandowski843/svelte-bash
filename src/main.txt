@@ -21,3 +21,4 @@ A fully typed, lightweight, and customizable terminal emulator component for Sve
 # clarify the control flow
 # handle the edge case from the last release
 # match the style used in the rest of the module
+# match the style used in the rest of the module
